@@ -1,0 +1,2 @@
+#!/bin/sh
+$DOCKBASE/ligand/generate/build_smiles_ligand.sh $*

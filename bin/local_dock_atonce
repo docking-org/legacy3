@@ -1,0 +1,2 @@
+#!/bin/sh
+$DOCKBASE/docking/submit/local_atonce.csh $*

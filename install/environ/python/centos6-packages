@@ -1,0 +1,25 @@
+@development-tools
+@additional-development
+openssl openssl-devel openssl-static
+zlib zlib-devel zlib-static libzip libzip-devel bzip2 bzip2-devel
+db4 db4-devel db4-devel-static
+tk tk-devel tcl tcl-devel
+freetype freetype-devel
+libpng libpng-devel libpng-static
+libffi libffi-devel cairo cairo-devel
+atlas atlas-sse2 atlas-sse3 atlas-devel atlas-sse2-devel atlas-sse3-devel
+blas blas-devel
+lapack lapack-devel
+suitesparse suitesparse-devel suitesparse-devel
+mysql mysql-devel
+sqlite sqlite-devel
+postgresql postgresql-devel
+libevent libevent-devel
+ncurses ncurses-devel ncurses-static
+readline readline-devel readline-static
+libjpeg libjpeg-devel libjpeg-static
+gdbm gdbm-devel
+cmake
+gcc-c++
+flex
+bison

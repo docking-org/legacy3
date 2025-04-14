@@ -1,0 +1,9 @@
+numpy<1.9
+scipy
+biopython
+psycopg2
+MySQL-python
+sh
+matplotlib
+lockfile
+psutil
